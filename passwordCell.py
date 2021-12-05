@@ -21,8 +21,13 @@ if account in PASSWORDS:  # 如果账户存在，就将 key 对应的 value 复�
 else:
     print('There is no account named ' + account)
 
-# bat 中添加 @pause 暂停Uzi后的窗口
-# C:/windows/*.bat 即可运行脚本
+# *.bat 中添加 @pause 暂停使用脚本之后的窗口
+# 将 bat 放到 C:/windows/*.bat 即可运行脚本
+
+# 脚本内容如下：
+
 
 # @py.exe 'windows下的路径'.py %*
-# @pause exit
+
+# @pause 或者
+# exit
