@@ -3,8 +3,6 @@ import pyperclip
 
 PASSWORDS = {
     'pw': 'guIgh2wiP95714n',
-    'fw': 'fw142857',
-    'fengwei': 'fw142857',
     'gmail': 'psychonaut1f@gmail.com',
     'blog': 'https://konng.vercel.app',
     'github': 'https://github.com/fengwei2002'}
