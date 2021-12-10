@@ -1,3 +1,5 @@
+# 提取剪切板中内容中的 email，将提取得到的 email 复制回 剪切板中
+
 import pyperclip
 import re
 

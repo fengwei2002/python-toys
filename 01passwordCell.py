@@ -1,3 +1,5 @@
+# 一个密码箱，可以通过关键字获得全部文本
+
 import sys
 import pyperclip
 
